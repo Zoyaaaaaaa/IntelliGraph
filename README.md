@@ -22,7 +22,6 @@ Welcome to the **Data Analysis Tool**, built with **Streamlit**! This app allows
 ## 🖥️ **Demo**
 https://github.com/user-attachments/assets/ac6d7fc9-94a7-4015-8d3d-a5851f4d05cb
 
-👉 **[Live Demo of Data Analysis Tool](https://your-deployment-link.streamlit.app)**
 
 Feel free to upload your own datasets, ask questions, and explore your data in real-time!
 
@@ -60,9 +59,5 @@ This tool integrates with **PandasAI** and uses a secure API key for authenticat
 
 ---
 
-## 🌍 **Try It Now!**
 
-Click the link below to get started:
-
-👉 [Try the Data Analysis Tool Demo](https://your-deployment-link.streamlit.app)
 
